@@ -1,5 +1,6 @@
-# 技术文档的写作规范
+# 文档写作规范
 
+如何写出优秀的文档？我会写作和收集这些规范。
 
 ## [wiki-docs](https://github.com/Gaotianhe/wiki-docs) 写作规则
 
