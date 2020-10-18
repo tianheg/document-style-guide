@@ -8,3 +8,5 @@ How to write great documents? I'll write and collect these rules for us.
 
 - File naming: English is not capitalized;
 - File naming: only one `-` is allowed as an interval
+- File naming: only English file name
+- When noting with Chinese, must use half angle brackets `()`, instead of `（）`
