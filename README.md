@@ -28,3 +28,4 @@ References:
 
 - [Halfwidth and fullwidth forms](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
+- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide/)
