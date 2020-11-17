@@ -10,6 +10,7 @@ How to write great documents? I'll write and collect these rules for us.
 - File naming: only one `-` is allowed as an interval
 - File naming: only English file name
 - When noting with Chinese, must use halfwidth forms brackets `()`, instead of `（）`
+- In vuepress, can use `<url>` instead of `[url](url)` get new page link
 
 ## Chinese technical document writing specification
 
