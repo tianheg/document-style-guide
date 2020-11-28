@@ -31,3 +31,4 @@ References:
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide/)
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [Writing style guide - MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide)
