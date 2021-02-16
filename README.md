@@ -27,7 +27,8 @@
 - [全角和半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [阮一峰 / 中文技术文档写作规范](https://github.com/ruanyf/document-style-guide)
 - [中文技术文档写作风格指南](https://github.com/yikeke/zh-style-guide/)
-- [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
 - [Writing style guide - MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide)
 - [写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
 
