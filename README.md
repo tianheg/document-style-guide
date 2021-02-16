@@ -29,6 +29,7 @@
 - [中文技术文档写作风格指南](https://github.com/yikeke/zh-style-guide/)
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [Writing style guide - MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide)
+- [写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
 
 ## License
 
